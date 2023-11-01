@@ -65,9 +65,10 @@ React を用いてデスクトップアプリの実装をする。
 
 ### 制約
 
-- [React](https://react.dev/)を用いて SPA（シングルページアプリケーション）を実装すること。
+- [React](https://react.dev/)を用いて SPA（Single Page Application）を実装すること。
 - TypeScript で記述すること。
 - お渡しする Figma データと同じ見た目になるように実装をすること。
+  - Figma データは[Figma へのファイルのインポート](https://help.figma.com/hc/ja/articles/360041003114-Figma%E3%81%B8%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88)を参考にインポートしてください。
 - Microsoft Edge 最新版で正しく動作すること。
 - ソースコードは Git で管理すること。
 - フォントは[Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)を使用すること。
@@ -104,9 +105,9 @@ React を用いてデスクトップアプリの実装をする。
 
 - [Design Exam Sample App](https://gux-rwlt.github.io/design-exam/)
 
-## 期間
+## 期限
 
-課題をお渡しした日から 1 週間以内でお願いします。
+課題をお渡しした日から 1週間以内でお願いします。
 
 例）10/01 に課題をお渡しした場合、締め切りが 10/08 23:59 まで
 
